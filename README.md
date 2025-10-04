@@ -1,5 +1,5 @@
 ## (=^.^=)
-
+## 👩‍💻 Desenvolvedora em formação | Apaixonado por tecnologia, gatos e gatos 🐱 já falei gatos ?
 
 <p align="center">
   <b>Linguagens que estou aprendendo ❤️</b>
