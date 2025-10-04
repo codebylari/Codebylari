@@ -13,3 +13,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
 </p>
 
+## AAAAH outra coisa, quero me tornar uma hacker potente ou trabalha com games, qual sera meu destino!?
