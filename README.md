@@ -15,4 +15,3 @@
 </p>
 
 
-## AAAAH outra coisa, quero me tornar uma hacker potente ou trabalha com games, qual sera meu destino!?
