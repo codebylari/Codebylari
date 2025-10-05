@@ -1,5 +1,5 @@
-## (=^.^=)
-## 👩‍💻 Desenvolvedora em formação | Apaixonada por tecnologia, gatos e gatos 🐱 já falei gatos ?
+<p align="center"> (=^.^=)</p>
+ <p align="center"> 👩‍💻 Desenvolvedora em formação | Apaixonada por tecnologia, gatos e gatos 🐱 já falei gatos ?</p>
 
 
  <p align="center">
