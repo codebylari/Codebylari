@@ -1,5 +1,5 @@
 <p align="center"> (=^.^=)</p>
- <p align="center"> 👩‍💻 Desenvolvedora em formação | Apaixonad por tecnologia, gatos e gatos 🐱 já falei gatos ? </p>
+ <p align="center"> 👩‍💻 Desenvolvedora em formação | Apaixonadaa por tecnologia, gatos e gatos 🐱 já falei gatos ? </p>
 
 
  <p align="center">
