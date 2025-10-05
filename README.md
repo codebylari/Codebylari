@@ -1,16 +1,18 @@
 ## (=^.^=)
-## 👩‍💻 Desenvolvedora em formação | Apaixonado por tecnologia, gatos e gatos 🐱 já falei gatos ?
+## 👩‍💻 Desenvolvedora em formação | Apaixonada por tecnologia, gatos e gatos 🐱 já falei gatos ?
 
-<p align="center">
-  <b>Linguagens que estou aprendendo ❤️</b>
+
+ <p align="center">
+  <img src="https://img.shields.io/badge/Linguagens%20que%20estou%20aprendendo-%E2%9D%A4%EF%B8%8F-pink?style=for-the-badge" alt="Linguagens">
 </p>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-ff66b2?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/HTML-ff3399?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-ff99cc?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/Java-ff80bf?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-ffb6c1?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
+
 
 ## AAAAH outra coisa, quero me tornar uma hacker potente ou trabalha com games, qual sera meu destino!?
