@@ -1,9 +1,12 @@
-<p align="center"> (=^.^=)</p>
-<p align="center"> 👩‍💻 Desenvolvedora em formação | Apaixonada por tecnologia, gatos e gatos 🐱 já falei gatos ? </p>
+<h1 align="center">(=^.^=)</h1>
 
+
+## **👩‍💻 Aspiring Developer | Passionate about technology, cats 🐱 did I mention cats?**
 <p align="center">
-  <img src="https://img.shields.io/badge/Linguagens%20que%20estou%20aprendendo-%E2%9D%A4%EF%B8%8F-pink?style=for-the-badge" alt="Linguagens">
+  <img src="https://img.shields.io/badge/✨%20Linguagens%20que%20estou%20aprendendo%20✨-%E2%9D%A4%EF%B8%8F-pink?style=for-the-badge&logoColor=white&labelColor=ff99cc&fontSize=20" alt="Linguagens">
 </p>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
