@@ -1,12 +1,9 @@
-<h1 align="center">(=^.^=)</h1>
 
 
-## **👩‍💻 Aspiring Developer | Passionate about technology, cats 🐱 did I mention cats?**
-<p align="center">
-  <img src="https://img.shields.io/badge/✨%20Linguagens%20que%20estou%20aprendendo%20✨-%E2%9D%A4%EF%B8%8F-pink?style=for-the-badge&logoColor=white&labelColor=ff99cc&fontSize=20" alt="Linguagens">
-</p>
 
+ **👩‍💻 Desenvolvedora em formação | apaixonada por gatos, tecnologia, gatos 🐱 eu ja mencionei gatos?**
 
+  Linguagens que estou aprendendo:
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
