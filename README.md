@@ -1,8 +1,9 @@
 
 
 
- **👩‍💻 Desenvolvedora em formação | apaixonada por gatos, tecnologia, gatos 🐱 eu ja mencionei gatos?**
-
+<p align="center">
+  <strong>👩‍💻 Desenvolvedora em formação | apaixonada por gatos, tecnologia, gatos 🐱 eu já mencionei gatos?</strong>
+</p>
   Linguagens que estou aprendendo:
 
 <p align="center">
