@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <strong>👩‍💻 Desenvolvedora em formação | apaixonada por gatos, tecnologia, gatos 🐱 eu já mencionei gatos?</strong>
+  <strong>👩‍💻 Desenvolvedora em formação | apaixonadaa por gatos, tecnologia, gatos 🐱 eu já mencionei gatos?</strong>
 </p>
   <p>Linguagens que estou aprendendo:</p>
 
