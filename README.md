@@ -4,7 +4,7 @@
 <p align="center">
   <strong>👩‍💻 Desenvolvedora em formação | apaixonadaa por gatos, tecnologia, gatos 🐱 eu já mencionei gatos?</strong>
 </p>
-  <p>Linguagens que estou aprendendo:</p>
+  <p><strong></strong>Linguagens que estou aprendendo:</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -15,3 +15,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
   <img src="https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TSX"/>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/codebylari/codebylari/output/snake.svg" alt="Snake animation" />
+</div>
