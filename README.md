@@ -4,7 +4,7 @@
 <p align="center">
   <strong>👩‍💻 Desenvolvedora em formação | apaixonadaa por gatos, tecnologia, gatos 🐱 eu já mencionei gatos?</strong>
 </p>
-  <p><strong></strong>Linguagens que estou aprendendo:</strong></p>
+  <p align="center"><strong></strong>Linguagens que estou aprendendo:</strong></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
