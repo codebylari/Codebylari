@@ -1,41 +1,53 @@
+<h1 align="center">Larissa Soeiro ✨</h1>
+
 <p align="center">
-  <strong>
-    👩‍💻 Desenvolvedora em formação | apaixonada por tecnologia, interfaces criativas e gatos 🐈
-  </strong>
+  Desenvolvedora em formação apaixonada por tecnologia, interfaces criativas e gatos 🐈
+</p>
+
+<br>
+
+<h3 align="center">💻 Tecnologias & estudos</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-ffb3c6?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-ffc2d1?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ff8fab?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-f4acb7?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSX-ffcad4?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TSX-e5989b?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 <p align="center">
-  🚀 Linguagens e tecnologias que estou aprendendo:
+  <img src="https://img.shields.io/badge/Java-d98caa?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-cd93b3?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-ffb7c5?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-f2a2b4?style=for-the-badge&logo=flutter&logoColor=white"/>
+</p>
+
+<br>
+
+<p align="center">
+  ✨ Explorando desenvolvimento front-end, design e cybersecurity.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  🌸 UI Design • Front-end • Java • Flutter • Cybersecurity
+</p>
 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+<br>
 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-
-  <img src="https://img.shields.io/badge/JSX-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="JSX"/>
-
-  <img src="https://img.shields.io/badge/TSX-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TSX"/>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=codebylari&show_icons=true&theme=transparent&hide_border=true&title_color=ff8fab&icon_color=ff8fab&text_color=f8d7da"
+  />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebylari&layout=compact&theme=transparent&hide_border=true&title_color=ff8fab&text_color=f8d7da"
+  />
 </p>
 
-
-<p align="center">
-  ✨ Criando projetos criativos e explorando diferentes áreas da tecnologia, sempre buscando unir aprendizado, design e inovação — com um toque inspirado no universo felino 🐾
-</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codebylari/codebylari/output/snake.svg" alt="Snake animation" />
