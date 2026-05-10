@@ -38,15 +38,13 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=codebylari&show_icons=true&theme=transparent&hide_border=true&title_color=ff8fab&icon_color=ff8fab&text_color=f8d7da"
+    height="170em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=codebylari&theme=tokyonight&hide_border=true&ring=ff8fab&fire=ff8fab&currStreakLabel=ff8fab"
   />
 </p>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebylari&layout=compact&theme=transparent&hide_border=true&title_color=ff8fab&text_color=f8d7da"
-  />
-</p>
+<br>
+
 
 
 <div align="center">
