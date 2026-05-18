@@ -1,4 +1,4 @@
-<h1 align="center">Larissa Soeiro ✨</h1>
+<h1 align="center">Larissa ✨</h1>
 
 <p align="center">
   Desenvolvedora em formação apaixonada por tecnologia, interfaces criativas e gatos 🐈
