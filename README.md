@@ -26,6 +26,17 @@
 
 <br>
 
+<h3 align="center">🏆 Conquistas</h3>
+
+<p align="center">
+  🎖️
+  <a href="https://learn.microsoft.com/api/achievements/share/pt-br/LarissaSoeiro-1357/4CBF8CPK?sharingId=EA716162D603B6BE">
+    <strong>Introdução ao Git — Microsoft Learn</strong>
+  </a>
+</p>
+
+<br>
+
 <p align="center">
   ✨ Explorando desenvolvimento front-end, design e cybersecurity.
 </p>
@@ -44,8 +55,6 @@
 </p>
 
 <br>
-
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/codebylari/codebylari/output/snake.svg" alt="Snake animation" />
